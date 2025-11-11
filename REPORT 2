@@ -1,0 +1,24 @@
+
+Report: Impact of Inflation on Labor Productivity
+
+1. Data Analysis:
+
+The analysis was conducted based on a model where labor productivity is assumed to be proportional to real wages.
+Monthly inflation of 3.3% and yearly inflation of 24.8% were considered.
+The nominal salary per month was set at 70,000 units.
+2. Calculated Values:
+
+Real salaries were computed by adjusting for inflation on both a monthly and yearly basis.
+Labor productivity was calculated using the assumption of an inverse relationship with inflation.
+Key Findings:
+
+The analysis revealed that labor productivity decreases as inflation rises, following the simplified model.
+The productivity indices for the monthly and yearly periods were determined based on the provided inflation rates.
+4. Visualization:
+
+A bar plot was generated to visually represent the impact of inflation on labor productivity.
+The plot showcases the labor productivity index for the monthly and yearly periods, highlighting the inverse relationship with inflation.
+5. Conclusion:
+
+The analysis indicates that inflation can have a negative impact on labor productivity, as seen in the model assumptions.
+Understanding the dynamics between inflation and productivity is crucial for assessing economic trends and workforce performance.
